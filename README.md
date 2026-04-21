@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **himabindugunaganti@gmail.com**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=himabindu-gunaganti&show_icons=true&locale=en&layout=compact" alt="himabindu-gunaganti" /></p>
+
 
 📍 India
 
@@ -45,6 +45,8 @@
 
 * Email: [himabindugunaganti@gmail.com](mailto:himabindugunaganti@gmail.com)
 * LinkedIn: (https://www.linkedin.com/in/himabindu-gunaganti-295667248/)
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=himabindu-gunaganti&show_icons=true&locale=en&layout=compact" alt="himabindu-gunaganti" /></p>
 
 
 
