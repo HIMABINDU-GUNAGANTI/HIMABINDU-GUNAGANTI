@@ -12,6 +12,10 @@
 📍 India
 
 ---
+## 📄 Resume
+
+* 📎 [View Resume](RESUME1.pdf)
+---
 
 ## 🚀 Skills
 
@@ -29,6 +33,13 @@
 
 ---
 
+## 📫 Contact
+
+* Email: [himabindugunaganti@gmail.com](mailto:himabindugunaganti@gmail.com)
+* LinkedIn: (https://www.linkedin.com/in/himabindu-gunaganti-295667248/)
+
+---
+
 ## 📜 Certificates
 
 * 🏅 [Internship Certificate](InternshipCertificate.pdf)
@@ -38,16 +49,7 @@
 
 ---
 
-## 📄 Resume
 
-* 📎 [View Resume](RESUME1.pdf)
-
----
-
-## 📫 Contact
-
-* Email: [himabindugunaganti@gmail.com](mailto:himabindugunaganti@gmail.com)
-* LinkedIn: (https://www.linkedin.com/in/himabindu-gunaganti-295667248/)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=himabindu-gunaganti&show_icons=true&locale=en&layout=compact" alt="himabindu-gunaganti" /></p>
 
