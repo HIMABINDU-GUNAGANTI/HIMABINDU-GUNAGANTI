@@ -18,5 +18,45 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=himabindu-gunaganti&show_icons=true&locale=en&layout=compact" alt="himabindu-gunaganti" /></p>
+# 👋 Hi, I'm Himabindu
+
+🎓 MCA Graduate | 💻 Aspiring Software Developer
+📍 India
+
+---
+
+## 🚀 Skills
+
+* Java
+* SQL
+* HTML, CSS, JavaScript
+* Basics of AWS
+
+---
+
+## 📂 Projects
+
+* 🔹 Project 1 – (Add link + short description)
+* 🔹 Project 2 – (Add link + short description)
+
+---
+
+## 📜 Certificates
+
+* 🏅 [Typing Certificate](certificates/Himabindu_Typing_Certificate.pdf)
+
+---
+
+## 📄 Resume
+
+* 📎 [View Resume](resume/resume.pdf)
+
+---
+
+## 📫 Contact
+
+* Email: [your-email@gmail.com](mailto:your-email@gmail.com)
+* LinkedIn: (add link)
+
 
 
