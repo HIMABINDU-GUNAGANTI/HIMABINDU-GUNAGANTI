@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himabindu-gunaganti&label=Profile%20views&color=0e75b6&style=flat" alt="himabindu-gunaganti" /> </p>
 
-- 👀 I’m interested in **java,python,html,DSA**
+- 👀 I’m interested in **java,Frontend**
 
-- 🌱 I’m currently learning **Java and DSA in Java**
+- 🌱 I’m currently looking for a entry level **software developer**
 
 - 📫 How to reach me **himabindugunaganti@gmail.com**
 
