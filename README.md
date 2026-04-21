@@ -24,8 +24,8 @@
 
 ## 📂 Projects
 
-* 🔹 Project 1 – (Add link + short description)
-* 🔹 Project 2 – (Add link + short description)
+* 🔹 Project 1 – (https://github.com/HIMABINDU-GUNAGANTI/HMS + Hospital Management System Project)
+* 🔹 Project 2 – (https://github.com/HIMABINDU-GUNAGANTI/Frontend-Project- + Food ordering Project)
 
 ---
 
@@ -40,7 +40,7 @@
 
 ## 📄 Resume
 
-* 📎 [View Resume](resume/resume.pdf)
+* 📎 [View Resume](RESUME1.pdf)
 
 ---
 
