@@ -31,7 +31,10 @@
 
 ## 📜 Certificates
 
-* 🏅 [Typing Certificate](certificates/Himabindu_Typing_Certificate.pdf)
+* 🏅 [Internship Certificate](InternshipCertificate.pdf)
+* 🏅 [Java Certificate](JavaCertificate.pdf)
+* 🏅 [Mahindra Certificate](MahindraCertificate.pdf)
+  
 
 ---
 
