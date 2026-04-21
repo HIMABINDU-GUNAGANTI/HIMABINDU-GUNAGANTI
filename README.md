@@ -14,7 +14,7 @@
 ---
 ## 📄 Resume
 
-* 📎 [View Resume](resume/RESUME1.pdf)
+* 📎 [View Resume](RESUME1.pdf)
 ---
 
 ## 🚀 Skills
