@@ -47,7 +47,7 @@
 ## 📫 Contact
 
 * Email: [himabindugunaganti@gmail.com](mailto:himabindugunaganti@gmail.com)
-* LinkedIn: [https://www.linkedin.com/in/himabindu-gunaganti-295667248/](linkedin.com/in/himabindu-gunaganti-295667248/)
+* LinkedIn: (https://www.linkedin.com/in/himabindu-gunaganti-295667248/)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=himabindu-gunaganti&show_icons=true&locale=en&layout=compact" alt="himabindu-gunaganti" /></p>
 
