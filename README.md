@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himabindu-gunaganti&label=Profile%20views&color=0e75b6&style=flat" alt="himabindu-gunaganti" /> </p>
 
 
-- 🌱 I’m currently looking for a entry level **software developer role**
+- 🌱 I’m currently looking for a entry level **Software developer role**
 
 - 📫 How to reach me **himabindugunaganti@gmail.com**
 
@@ -29,7 +29,7 @@
 ## 📂 Projects
 
 * 🔹 Project 1 – (https://github.com/HIMABINDU-GUNAGANTI/HMS + Hospital Management System Project)
-* 🔹 Project 2 – (https://github.com/HIMABINDU-GUNAGANTI/Frontend-Project- + Food ordering Project)
+* 🔹 Project 2 – (https://github.com/HIMABINDU-GUNAGANTI/Student-Information-Project + Student Information Project)
 
 ---
 
