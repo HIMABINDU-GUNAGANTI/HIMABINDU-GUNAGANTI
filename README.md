@@ -9,7 +9,7 @@
 
 
 
-📍 India
+📍Hyderabad, India
 
 ---
 ## 📄 Resume
@@ -28,7 +28,7 @@
 
 ## 📂 Projects
 
-* 🔹 Project 1 – (https://github.com/HIMABINDU-GUNAGANTI/HMS + Hospital Management System Project)
+* 🔹 Project 1 – (https://github.com/HIMABINDU-GUNAGANTI/Hospital-Management-System + Hospital Management System Project)
 * 🔹 Project 2 – (https://github.com/HIMABINDU-GUNAGANTI/Student-Information-Project + Student Information Project)
 
 ---
