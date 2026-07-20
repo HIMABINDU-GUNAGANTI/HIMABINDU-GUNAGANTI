@@ -7,9 +7,7 @@
 
 - 📫 How to reach me **himabindugunaganti@gmail.com**
 
-
-
-📍Hyderabad, India
+- 📍Hyderabad, India
 
 ---
 ## 📄 Resume
@@ -28,8 +26,8 @@
 
 ## 📂 Projects
 
-* 🔹 Project 1 – (https://github.com/HIMABINDU-GUNAGANTI/Hospital-Management-System + Hospital Management System Project)
-* 🔹 Project 2 – (https://github.com/HIMABINDU-GUNAGANTI/Student-Information-Project + Student Information Project)
+* 🔹 Project 1 – (https://github.com/HIMABINDU-GUNAGANTI/Hospital-Management-System + Hospital Management System)
+* 🔹 Project 2 – (https://github.com/HIMABINDU-GUNAGANTI/Student-Information-Project + Student Information)
 
 ---
 
@@ -47,11 +45,7 @@
 * 🏅 [Mahindra Certificate](MahindraCertificate.pdf)
   
 
----
 
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=himabindu-gunaganti&show_icons=true&locale=en&layout=compact" alt="himabindu-gunaganti" /></p>
 
 
 
