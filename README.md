@@ -26,15 +26,15 @@
 
 ## 📂 Projects
 
-* 🔹 Project 1 – (https://github.com/HIMABINDU-GUNAGANTI/Hospital-Management-System + Hospital Management System)
-* 🔹 Project 2 – (https://github.com/HIMABINDU-GUNAGANTI/Student-Information-Project + Student Information)
+* 🔹 Project 1 – https://github.com/HIMABINDU-GUNAGANTI/Hospital-Management-System  Hospital Management System
+* 🔹 Project 2 – https://github.com/HIMABINDU-GUNAGANTI/Student-Information-Project  Student Information
 
 ---
 
 ## 📫 Contact
 
 * Email: [himabindugunaganti@gmail.com](mailto:himabindugunaganti@gmail.com)
-* LinkedIn: (https://www.linkedin.com/in/himabindu-gunaganti-295667248/)
+* LinkedIn: https://www.linkedin.com/in/himabindu-gunaganti-295667248/
 
 ---
 
