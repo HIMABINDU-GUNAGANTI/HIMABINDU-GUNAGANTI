@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently looking for a entry level **Software developer role**
 
-- 📫 How to reach me **himabindugunaganti@gmail.com**
+- 📫 How to reach me **gunagantihimabindu06@gmail.com**
 
 - 📍Hyderabad, India
 
