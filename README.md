@@ -33,7 +33,7 @@
 
 ## 📫 Contact
 
-* Email: [himabindugunaganti@gmail.com](mailto:himabindugunaganti@gmail.com)
+* Email: [gunagantihimabindu06@gmail.com](mailto:gunagantihimabindu06@gmail.com)
 * LinkedIn: https://www.linkedin.com/in/himabindu-gunaganti-295667248/
 
 ---
