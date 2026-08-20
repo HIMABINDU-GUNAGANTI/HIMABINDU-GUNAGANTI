@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm @HIMABINDU-GUNAGANTI</h1>
+<h1 align="center">Hi 👋, I'm @GUNAGANTI-HIMABINDU</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himabindu-gunaganti&label=Profile%20views&color=0e75b6&style=flat" alt="himabindu-gunaganti" /> </p>
 
